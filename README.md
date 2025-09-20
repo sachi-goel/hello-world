@@ -1,29 +1,40 @@
-# 👋 Hello, World!
+# 👋 Hi, I’m Sachi Goel
 
-Welcome to my very first GitHub repository! 🎉  
-I’m just getting started with GitHub and version control, and I’ll be using this space to learn, experiment, and grow as a developer.  
-
----
-
-# 🧑‍💻 About Me
-- 🌱 I’m currently learning JAVA , GIT/GITHUB , and WEB DEVELOPMENT  
-- 💡 I enjoy exploring new technologies and building small projects to improve my skills  
-- 📍 Based in Canada  
+💻 Aspiring Software Developer | 🌱 Currently Learning Java & Web Development | ✨ Open to Collaboration
 
 ---
 
-# 📂 What You’ll Find Here
-This repository may include:
-- ✨ Simple practice projects
-- 📝 Notes or code snippets from my learning journey  
-- 🧪 Experiments with GitHub features  
+# 📚 About Me
+- 🎓 Student interested in Java programming and web technologies
+- 🧠 Always exploring new tools, frameworks, and ways to write cleaner code  
+- 📍 Based in Canada, learning and growing through personal projects and open-source contributions  
+- 🚀 Dreaming of becoming a full-stack developer and building meaningful software
 
 ---
 
-# 📫 Contact
-- 💌 Email: sachigoel5645@gmail.com  
-- 🔗 LinkedIn: https://www.linkedin.com/in/sachi-goel-021484374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app   
+## 🛠️ Tech Stack & Tools
+- Languages: Java, HTML, CSS (learning basics of JavaScript)  
+- Version Control: Git & GitHub  
+- Other Tools: VS Code, Eclipse, GitHub Pages  
 
 ---
 
-⭐ Thanks for visiting my first repo! If you’d like, you can star ⭐ this repository to follow along as I learn.
+# 📂 Projects
+Here are a few things I’m working on or planning:  
+- 🔗 [hello-world](https://github.com/sachi-goel/hello-world) — My first repository on GitHub!  
+- 💡 Java mini-apps (e.g., calculator, number guessing game) (coming soon)
+- 🌐 Personal portfolio website hosted on GitHub Pages (in progress) 
+
+---
+
+## 📈 GitHub Stats
+![Sachi’s GitHub stats](https://github-readme-stats.vercel.app/api?username=sachi-goel&show_icons=true&theme=tokyonight)
+
+---
+
+## 📫 Connect with Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/sachi-goel-021484374)  
+- 📧 Email: sachigoel5645@gmail.com  
+
+⭐ Thanks for visiting my profile! Feel free to check out my repositories or connect with me on LinkedIn.
+

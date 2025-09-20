@@ -5,14 +5,14 @@ I’m just getting started with GitHub and version control, and I’ll be using 
 
 ---
 
-## 🧑‍💻 About Me
+# 🧑‍💻 About Me
 - 🌱 I’m currently learning JAVA , GIT/GITHUB , and WEB DEVELOPMENT  
 - 💡 I enjoy exploring new technologies and building small projects to improve my skills  
 - 📍 Based in Canada  
 
 ---
 
-## 📂 What You’ll Find Here
+# 📂 What You’ll Find Here
 This repository may include:
 - ✨ Simple practice projects
 - 📝 Notes or code snippets from my learning journey  
@@ -20,7 +20,7 @@ This repository may include:
 
 ---
 
-## 📫 Contact
+# 📫 Contact
 - 💌 Email: sachigoel5645@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/sachi-goel-021484374?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app   
 
